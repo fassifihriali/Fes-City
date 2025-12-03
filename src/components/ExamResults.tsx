@@ -175,7 +175,6 @@ import React from "react";
 import {
   Award,
   CheckCircle,
-  TrendingUp,
   BookOpen,
   Star,
   GraduationCap,

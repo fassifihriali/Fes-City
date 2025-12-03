@@ -77,7 +77,7 @@
 // export default WhyChooseUs;
 
 import React from "react";
-import { BookOpen, Microscope, Music, Users, ArrowUpRight } from "lucide-react";
+import { BookOpen, Microscope, Music, Users } from "lucide-react";
 
 const FeatureCard: React.FC<{
   title: string;

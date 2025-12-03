@@ -126,7 +126,7 @@
 // export default Navbar;
 
 import React, { useState, useEffect } from "react";
-import { Menu, X, Phone, Mail } from "lucide-react";
+import { Menu, X, Phone } from "lucide-react";
 import logo from "../assets/logo_fes_city.jpeg";
 
 const Navbar: React.FC = () => {

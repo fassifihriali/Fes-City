@@ -125,7 +125,7 @@
 // export default ContactCTA;
 
 import React from "react";
-import { Phone, Mail, MapPin, Calendar } from "lucide-react";
+import { Phone, Mail, MapPin } from "lucide-react";
 
 const ContactCTA: React.FC = () => {
   return (
